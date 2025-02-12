@@ -63,6 +63,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dimiura/Dimiura/output/snake.svg" alt="Snake animation" />
-
 ###
